@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some Stream",
+      "id": 2
+    },
+    {
+      "title": "I Created this Stream",
+      "description": "This was made by me !!!",
+      "userId": "104769287240772217441",
+      "id": 3
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "You should not see this on the form page",
+      "id": 4
+    },
+    {
+      "title": "Streaming component Reuse!",
+      "description": "Watch me refactor some componentssss",
+      "id": 5
+    }
+  ]
+}
